@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\examen 2 2024\\encuesta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|solutionrelative:examen 2 2024\\encuesta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|c:\\users\\dacar\\desktop\\examen 2 2024\\examen 2 2024\\examen 2 2024\\encuesta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|solutionrelative:examen 2 2024\\encuesta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\examen 2 2024\\encuesta.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|solutionrelative:examen 2 2024\\encuesta.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\examen 2 2024\\reporte.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|solutionrelative:examen 2 2024\\reporte.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\examen 2 2024\\reporte.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|solutionrelative:examen 2 2024\\reporte.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\examen 2 2024\\menu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|solutionrelative:examen 2 2024\\menu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\examen 2 2024\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|solutionrelative:examen 2 2024\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\examen 2 2024\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{33060032-52B5-4817-AD7C-46C66804DF77}|Examen 2 2024\\Examen 2 2024.csproj|solutionrelative:examen 2 2024\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "reporte.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\reporte.aspx.cs",
+              "RelativeDocumentMoniker": "Examen 2 2024\\reporte.aspx.cs",
+              "ToolTip": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\reporte.aspx.cs",
+              "RelativeToolTip": "Examen 2 2024\\reporte.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T18:52:10.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "encuesta.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\encuesta.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Examen 2 2024\\encuesta.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\encuesta.aspx.designer.cs",
+              "RelativeToolTip": "Examen 2 2024\\encuesta.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:34:45.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "encuesta.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\encuesta.aspx.cs",
+              "RelativeDocumentMoniker": "Examen 2 2024\\encuesta.aspx.cs",
+              "ToolTip": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\encuesta.aspx.cs",
+              "RelativeToolTip": "Examen 2 2024\\encuesta.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwDMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T03:02:22.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\Web.config",
+              "RelativeDocumentMoniker": "Examen 2 2024\\Web.config",
+              "ToolTip": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\Web.config",
+              "RelativeToolTip": "Examen 2 2024\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-23T03:00:27.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "reporte.aspx",
+              "DocumentMoniker": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\reporte.aspx",
+              "RelativeDocumentMoniker": "Examen 2 2024\\reporte.aspx",
+              "ToolTip": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\reporte.aspx",
+              "RelativeToolTip": "Examen 2 2024\\reporte.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-23T02:26:30.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "encuesta.aspx",
+              "DocumentMoniker": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\encuesta.aspx",
+              "RelativeDocumentMoniker": "Examen 2 2024\\encuesta.aspx",
+              "ToolTip": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\encuesta.aspx",
+              "RelativeToolTip": "Examen 2 2024\\encuesta.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-23T02:26:11.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "menu.css",
+              "DocumentMoniker": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\CSS\\menu.css",
+              "RelativeDocumentMoniker": "Examen 2 2024\\CSS\\menu.css",
+              "ToolTip": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\CSS\\menu.css",
+              "RelativeToolTip": "Examen 2 2024\\CSS\\menu.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-23T01:57:49.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "menu.Master",
+              "DocumentMoniker": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\menu.Master",
+              "RelativeDocumentMoniker": "Examen 2 2024\\menu.Master",
+              "ToolTip": "C:\\Users\\dacar\\Desktop\\Examen 2 2024\\Examen 2 2024\\Examen 2 2024\\menu.Master",
+              "RelativeToolTip": "Examen 2 2024\\menu.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-23T01:39:10.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
